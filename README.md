@@ -1,4 +1,4 @@
-# Hi there, I'm Vincent - aka [vincentwidyan](https://www.youtube.com/channel/UC22xix7qvwpYWnSQ5QEYtAQ) 👋
+# Hi there, I'm Afif Faisal Alamsyah 👋
 ## About me:
 - 🔭 I’m currently working as Cyber Security
 - 🌱 I’m currently learning Python and Javascript
@@ -9,12 +9,13 @@
 
 ## Education:
 
-#### 1. [Universitas Gadjah Mada](https://www.ugm.ac.id) | Bachelor of Electrical Engineering | Yogyakarta `2016-2020`
-   - Asistant Laboratorium of Basic Electronics
-   - Asistant Laboratorium of Installation
-   - Tutor of Engineering Mathematics
- #### 2. [SMA N 1 Kebumen](https://www.sman1kebumen.sch.id) | MIPA | Kebumen `2013-2016`
-   - Chief of Rohkris
+#### 1. [Universitas Telkom Surabaya](https://telkomuniversity.ac.id/) | Bachelor Degree in Informatics | Surabaya, East Java Aug 2021 - Aug 2025 (Expected)
+   - Studying advanced topics in software engineering, data structures, algorithms, and system design.
+   - Active in extracurricular activities that focus on technology and software development.
+   - Completed Relevant Coursework: Gained knowledge in software development methodologies, database management, and web technologies.
+ #### 2. [SMK TELKOM Banjarbaru](https://www.smktelkom-bjb.sch.id/web/) | High School Diploma in Software Engineering | Banjarbaru, South Kalimantan Jul 2019 - May 2022
+   - Proficient in HTML, CSS, Bootstrap, JavaScript, PHP, etc.
+   - Certified as a Junior Web Developer by BNSP
 
 ## Work Experience:
 #### 1. [PT. Huawei Tech Investment](https://www.huawei.com) | Project Controller | Pontianak `Dec'2020 - Now`
