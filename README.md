@@ -1,11 +1,6 @@
 # Hi there, I'm Afif Faisal Alamsyah 👋
 ## About me:
-- 🔭 I’m currently working as Cyber Security
-- 🌱 I’m currently learning Python and Javascript
-- 👯 I’m looking to collaborate as Data Automation and Analyst
-- 🤔 I’m looking for suggest for Rust Project Ideas
-- 💬 Ask me about anything
-- 📫 How to reach me: vincentwidyan@gmail.com
+Experienced in designing and developing web and Android apps. Strong understanding of object-oriented programming. Skilled in Laravel, PHP, JavaScript, intermediate Node.js, and Flutter for cross-platform mobile application development. Proficient in managing both SQL and NoSQL databases for optimal data handling. Capable of creating effective solutions for diverse development challenges.
 
 ## Education:
 
@@ -18,14 +13,16 @@
    - Certified as a Junior Web Developer by BNSP
 
 ## Work Experience:
-#### 1. [PT. Huawei Tech Investment](https://www.huawei.com) | Project Controller | Pontianak `Dec'2020 - Now`
-   - Integrate Accuracy Plan, Master Plan, HR Plan, and Recource Plan
-   - Responsible to improve and realize project delivery as timeline
-   - Create Automation using Python and VBA Excel for day-to-day routine
-#### 2. [PLN UP2D Purwokerto](https://portal.pln.co.id) | Student Intern | Purwokerto `2019-2019`
-   - Manage to update CAD of distribution lines using AutoCAD
-   - Manage to recap fault in distribution network
-   - Research on Maintenance of 20 kV Cubicle in Pemalang
+#### 1. [PT. Integrasi Inti Sinergi](https://www.integrasiintisinergi.com/) | Front End Developer | Malang, East Java Oct 2021 - Feb 2022
+   - Developed web applications using React.js and SASS for responsive user interfaces.
+   - Integrated front-end with backend using RESTful APIs.
+   - Designed responsive layouts with advanced CSS styling techniques using SASS.
+   - Implemented version control using tools such as BitBucket and used Jira as project management software.
+#### 2. [PT. Netsindo Sentra Computama](https://www.netsindo.co.id/) | Web Developer Internship | Banjarbaru, South Kalimantan Jun 2020 - Mar 2020
+   - Developed and maintained client websites using PHP and Bootstrap.
+   - Designed and implemented dynamic features for WordPress sites, including custom themes and plugins.
+   - Created responsive, user-friendly web layouts with Bootstrap, ensuring cross-browser compatibility and mobile responsiveness.
+   - Collaborated with the development team to troubleshoot technical issues and optimize website performance.
 ---
 
 ### Languages and Tools:
